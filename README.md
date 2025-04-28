@@ -1,3 +1,8 @@
+Projeto Academico Universidade Mackenzie
+
+
+
+
 Os métodos que devem ser implementados são:
 (25% da nota da atividade)
 • public static void demiteFuncionarios(LinkedList<Trabalhador> func)
